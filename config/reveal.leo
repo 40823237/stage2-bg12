@@ -357,7 +357,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210423021337.1">&lt;section&gt;
    &lt;h3&gt;報告PDF&lt;/h3&gt;
    &lt;p&gt;
-        &lt;h4&gt; &lt;a href="https://www.xuehua.us/a/5ec2940e5b4929f59adb830c?lang=zh-tw"&gt;https://www.xuehua.us/a/5ec2940e5b4929f59adb830c?lang=zh-tw &lt;/a&gt; 
+        &lt;h4&gt; &lt;a href="https://40823237.github.io/stage2-bg12/downloads/協同報告stage2.pdf"&gt;stage2-bg12 協同報告&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
